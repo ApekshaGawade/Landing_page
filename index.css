@@ -1,0 +1,107 @@
+*{margin:0;
+padding: 0;}
+body
+{
+    background-color:#eee;
+}
+.navbar
+{
+    font-size: 20px;
+    font-family: Poppins;  
+    font-weight:bold;
+    background-color:#628395;
+}
+.navbar-collapse{background-color:#628395;}
+.nav-link
+{
+    padding-right: 100px !important;
+    color:#FFE3E3 !important;
+}
+.banner{
+    height:auto;
+    background-color: #262A53;
+    color:#FFE3E3;
+    padding: 250px 0;
+    text-align: center;
+}
+.padd{
+    margin-top:20px;
+}
+.email{
+    padding: 10px 50px 10px 50px;
+}
+button
+{
+    border-color:#FFA0A0;
+    background-color: #FFA0A0;
+    padding: 5px 20px 5px 20px;
+}
+.next {
+    padding: 40px;
+    align-self: center;
+    justify-content: center;
+}
+.grid {
+    padding:17px;
+    display: flex;
+    box-sizing: border-box;
+}
+.icon
+{
+    font-size: 45px;
+    padding: 25px;
+    color: #628395;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.content
+{
+    padding-top: 15px;
+    padding-bottom:5px;
+}
+#works
+{
+    display: flex;
+    justify-content:center;
+}
+li
+{
+    list-style: none;
+    color:black;
+    text-align: center;
+}
+#pricing {
+    padding: 50px;
+    display:flex;
+    justify-content:space-evenly;
+    display: flex;
+} 
+.card
+{
+    width:40% !important;
+    display: block;
+    border: 2px solid black !important;
+    padding: 10px;
+    margin:0 20px;
+    text-align: center;
+}
+.card-title
+{
+    padding:15px;
+}
+.footer
+{
+  padding-top:30px;
+  padding-bottom:30px;
+  font-weight: bold;
+  background-color:#628395;
+  display: flex;
+  justify-content: space-evenly;
+  color: #FFE3E3;
+}
+.select
+{
+    background-color:white;
+    border: 2px solid #628395;
+}
